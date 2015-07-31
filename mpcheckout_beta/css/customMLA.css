@@ -1,0 +1,44 @@
+body {
+	margin:0;
+	padding:0;
+	text-align:center;
+       	}
+#tudo {
+	width: 960px;
+	margin:0 auto;			
+	text-align:left; /* "remŽdio" para o hack do IE */	
+	}
+#conteudo {
+	padding: 5px;
+        padding-top: 10px;
+       
+	}
+.ch-form-box {
+	padding: 15px;
+    padding-top: 15px;
+}
+/* Label */
+.ch-form-row-big label {
+	text-align:right;
+	width:200px;
+	padding-top: 20px;
+}
+.ch-form-actions-big {
+	margin-left:200px;
+	text-align:left;
+}
+/* Required specification or another */
+.ch-form-hint-big {
+	color: #999999;
+	font-size: 12px;
+	line-height: 12px;
+	display:block;
+	margin-left: 205px;
+}
+.input_link {
+		border: none;
+		background-color: #FFF;
+		color:#0000FF;
+		text-decoration: underline;
+		cursor:pointer;
+	}

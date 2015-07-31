@@ -1,0 +1,2 @@
+collections_panel
+=================

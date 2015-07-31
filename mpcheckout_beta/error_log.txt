@@ -1,0 +1,81 @@
+[27-Feb-2014 08:28:59] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/html/mpcheckout/menu.php on line 22
+[27-Feb-2014 16:22:54] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:24:14] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:24:43] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:26:24] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:27:55] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:28:02] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  Pedido in /var/www/html/mpcheckout/preference.php on line 15
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  curso in /var/www/html/mpcheckout/preference.php on line 16
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/preference.php on line 17
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  category in /var/www/html/mpcheckout/preference.php on line 21
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  Pedido in /var/www/html/mpcheckout/preference.php on line 24
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  nome in /var/www/html/mpcheckout/preference.php on line 28
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  sobrenome in /var/www/html/mpcheckout/preference.php on line 29
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  telefone in /var/www/html/mpcheckout/preference.php on line 33
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  cpf in /var/www/html/mpcheckout/preference.php on line 37
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  nro in /var/www/html/mpcheckout/preference.php on line 41
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  cep in /var/www/html/mpcheckout/preference.php on line 42
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  cep in /var/www/html/mpcheckout/preference.php on line 50
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  nro in /var/www/html/mpcheckout/preference.php on line 52
+[27-Feb-2014 16:53:27] PHP Notice:  Undefined index:  Pedido in /var/www/html/mpcheckout/preference.php on line 24
+[27-Feb-2014 16:53:27] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:53:27] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 16:55:15] PHP Notice:  Undefined index:  Pedido in /var/www/html/mpcheckout/preference.php on line 24
+[27-Feb-2014 16:55:15] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:55:15] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 16:55:44] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:55:44] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 16:56:34] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:56:34] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 17:38:08] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 106
+[27-Feb-2014 17:38:10] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 112
+[27-Feb-2014 17:40:53] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 114
+[27-Feb-2014 17:40:53] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 115
+[27-Feb-2014 17:42:12] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 116
+[27-Feb-2014 17:42:12] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 117
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  curso in /var/www/html/mpcheckout/preference.php on line 16
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/preference.php on line 17
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  price in /var/www/html/mpcheckout/preference.php on line 19
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  category in /var/www/html/mpcheckout/preference.php on line 21
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  nome in /var/www/html/mpcheckout/preference.php on line 28
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  sobrenome in /var/www/html/mpcheckout/preference.php on line 29
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  email in /var/www/html/mpcheckout/preference.php on line 30
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  telefone in /var/www/html/mpcheckout/preference.php on line 33
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  cpf in /var/www/html/mpcheckout/preference.php on line 37
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  nro in /var/www/html/mpcheckout/preference.php on line 41
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  cep in /var/www/html/mpcheckout/preference.php on line 42
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  cep in /var/www/html/mpcheckout/preference.php on line 50
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  nro in /var/www/html/mpcheckout/preference.php on line 52
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  price in /var/www/html/mpcheckout/preference.php on line 83
+[28-Feb-2014 08:45:25] PHP Warning:  require_once(../../lib/mercadopago.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /var/www/html/mpcheckout/search_payment.php on line 4
+[28-Feb-2014 08:45:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../lib/mercadopago.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/mpcheckout/search_payment.php on line 4
+[28-Feb-2014 08:46:05] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/search_payment.php on line 27
+[05-Mar-2014 09:02:59] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 116
+[05-Mar-2014 09:06:24] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 116
+[05-Mar-2014 09:06:51] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 116
+[05-Mar-2014 09:08:12] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 118
+[17-Mar-2014 11:13:56] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/menu.php on line 61
+[17-Mar-2014 14:01:30] PHP Notice:  Undefined index:  user in /var/www/html/mpcheckout/search_payment.php on line 6
+[17-Mar-2014 14:01:30] PHP Notice:  Undefined index:  pass in /var/www/html/mpcheckout/search_payment.php on line 7
+[17-Mar-2014 14:01:31] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/search_payment.php on line 27
+[17-Mar-2014 14:02:09] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/menu.php on line 61
+[07-May-2014 11:58:33] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 137
+[08-May-2014 17:38:16 Europe/Berlin] PHP Notice:  Undefined index: desc in /Applications/MAMP/htdocs/mpcheckout/preference.php on line 17
+[08-May-2014 17:56:12 Europe/Berlin] PHP Notice:  Undefined index: desc in /Applications/MAMP/htdocs/mpcheckout/preference.php on line 17
+[08-May-2014 18:59:30 Europe/Berlin] PHP Notice:  Undefined index: desc in /Applications/MAMP/htdocs/mpcheckout/preference.php on line 17
+[08-May-2014 19:21:36 Europe/Berlin] PHP Notice:  Undefined index: desc in /Applications/MAMP/htdocs/mpcheckout/preference.php on line 17
+[08-May-2014 19:23:04 Europe/Berlin] PHP Notice:  Undefined index: desc in /Applications/MAMP/htdocs/mpcheckout/preferenceMLA.php on line 17
+[08-May-2014 19:24:03 Europe/Berlin] PHP Notice:  Undefined index: desc in /Applications/MAMP/htdocs/mpcheckout/preferenceMLA.php on line 17
+[08-May-2014 19:24:04 Europe/Berlin] PHP Notice:  Undefined index: desc in /Applications/MAMP/htdocs/mpcheckout/preferenceMLA.php on line 17
+[05-Nov-2014 18:07:08 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout_beta/menuMLA.php on line 66
+[21-Jan-2015 18:54:39 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout_beta/menuMLA.php on line 66
+[18-Feb-2015 18:52:07 America/Sao_Paulo] PHP Notice:  Undefined index: init_point in /var/www/html/mpcheckout_beta/preferenceMLA.php on line 129
+[20-Feb-2015 15:39:29 America/Sao_Paulo] PHP Notice:  Undefined index: init_point in /var/www/html/mpcheckout_beta/preferenceMLA.php on line 136
+[17-Apr-2015 16:29:38 America/Sao_Paulo] PHP Notice:  Undefined index: init_point in /var/www/html/mpcheckout_beta/preferenceMLA.php on line 129
+[21-Apr-2015 13:24:58 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout_beta/menuMLA.php on line 66
+[21-Apr-2015 13:27:48 America/Sao_Paulo] PHP Notice:  Undefined index: category in /var/www/html/mpcheckout_beta/preferenceMLA.php on line 20

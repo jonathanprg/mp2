@@ -1,0 +1,211 @@
+[27-Feb-2014 08:28:59] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/html/mpcheckout/menu.php on line 22
+[27-Feb-2014 16:22:54] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:24:14] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:24:43] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:26:24] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:27:55] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:28:02] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/menu.php on line 8
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  Pedido in /var/www/html/mpcheckout/preference.php on line 15
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  curso in /var/www/html/mpcheckout/preference.php on line 16
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/preference.php on line 17
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  category in /var/www/html/mpcheckout/preference.php on line 21
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  Pedido in /var/www/html/mpcheckout/preference.php on line 24
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  nome in /var/www/html/mpcheckout/preference.php on line 28
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  sobrenome in /var/www/html/mpcheckout/preference.php on line 29
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  telefone in /var/www/html/mpcheckout/preference.php on line 33
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  cpf in /var/www/html/mpcheckout/preference.php on line 37
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  nro in /var/www/html/mpcheckout/preference.php on line 41
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  cep in /var/www/html/mpcheckout/preference.php on line 42
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  cep in /var/www/html/mpcheckout/preference.php on line 50
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 16:52:14] PHP Notice:  Undefined index:  nro in /var/www/html/mpcheckout/preference.php on line 52
+[27-Feb-2014 16:53:27] PHP Notice:  Undefined index:  Pedido in /var/www/html/mpcheckout/preference.php on line 24
+[27-Feb-2014 16:53:27] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:53:27] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 16:55:15] PHP Notice:  Undefined index:  Pedido in /var/www/html/mpcheckout/preference.php on line 24
+[27-Feb-2014 16:55:15] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:55:15] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 16:55:44] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:55:44] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 16:56:34] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[27-Feb-2014 16:56:34] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[27-Feb-2014 17:38:08] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 106
+[27-Feb-2014 17:38:10] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 112
+[27-Feb-2014 17:40:53] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 114
+[27-Feb-2014 17:40:53] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 115
+[27-Feb-2014 17:42:12] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 116
+[27-Feb-2014 17:42:12] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 117
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  curso in /var/www/html/mpcheckout/preference.php on line 16
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  desc in /var/www/html/mpcheckout/preference.php on line 17
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  price in /var/www/html/mpcheckout/preference.php on line 19
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  category in /var/www/html/mpcheckout/preference.php on line 21
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  nome in /var/www/html/mpcheckout/preference.php on line 28
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  sobrenome in /var/www/html/mpcheckout/preference.php on line 29
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  email in /var/www/html/mpcheckout/preference.php on line 30
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  telefone in /var/www/html/mpcheckout/preference.php on line 33
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  cpf in /var/www/html/mpcheckout/preference.php on line 37
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 40
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  nro in /var/www/html/mpcheckout/preference.php on line 41
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  cep in /var/www/html/mpcheckout/preference.php on line 42
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  cep in /var/www/html/mpcheckout/preference.php on line 50
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  endereco in /var/www/html/mpcheckout/preference.php on line 51
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  nro in /var/www/html/mpcheckout/preference.php on line 52
+[28-Feb-2014 08:45:02] PHP Notice:  Undefined index:  price in /var/www/html/mpcheckout/preference.php on line 83
+[28-Feb-2014 08:45:25] PHP Warning:  require_once(../../lib/mercadopago.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /var/www/html/mpcheckout/search_payment.php on line 4
+[28-Feb-2014 08:45:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../lib/mercadopago.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/html/mpcheckout/search_payment.php on line 4
+[28-Feb-2014 08:46:05] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/search_payment.php on line 27
+[05-Mar-2014 09:02:59] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 116
+[05-Mar-2014 09:06:24] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 116
+[05-Mar-2014 09:06:51] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 116
+[05-Mar-2014 09:08:12] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 118
+[17-Mar-2014 11:13:56] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/menu.php on line 61
+[17-Mar-2014 14:01:30] PHP Notice:  Undefined index:  user in /var/www/html/mpcheckout/search_payment.php on line 6
+[17-Mar-2014 14:01:30] PHP Notice:  Undefined index:  pass in /var/www/html/mpcheckout/search_payment.php on line 7
+[17-Mar-2014 14:01:31] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/search_payment.php on line 27
+[17-Mar-2014 14:02:09] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/menu.php on line 61
+[07-May-2014 11:58:33] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 137
+[26-Jun-2014 15:36:48] PHP Notice:  Undefined index:  user in /var/www/html/mpcheckout/preference.php on line 7
+[26-Jun-2014 15:36:48] PHP Notice:  Undefined index:  pass in /var/www/html/mpcheckout/preference.php on line 8
+[26-Jun-2014 15:36:49] PHP Notice:  Undefined index:  access_token in /var/www/html/mpcheckout/lib/mercadopago.php on line 48
+[26-Jun-2014 15:36:49] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 137
+[26-Sep-2014 13:01:16] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/menu.php on line 61
+[30-Sep-2014 08:54:16] PHP Notice:  Undefined index:  access_token in /var/www/html/mpcheckout/lib/mercadopago.php on line 48
+[30-Sep-2014 08:54:17] PHP Notice:  Undefined index:  init_point in /var/www/html/mpcheckout/preference.php on line 137
+[05-Nov-2014 15:26:23 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/menu.php on line 61
+[05-Nov-2014 16:13:38 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/menu.php on line 61
+[19-Feb-2015 18:16:16 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/mpcheckout/menu.php on line 61
+[19-Feb-2015 18:18:38 America/Sao_Paulo] PHP Notice:  Undefined index: category in /var/www/html/mpcheckout/preference.php on line 21
+[16-Mar-2015 18:14:52 America/Sao_Paulo] PHP Fatal error:  Call to undefined method MP::get_auth() in /var/www/html/mpcheckout/index.php on line 77
+[26-Mar-2015 18:43:32 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[26-Mar-2015 18:44:23 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[26-Mar-2015 18:46:31 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(73): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/lib/mercadopago.php(188): MP->get_access_token()
+#3 /var/www/html/mpcheckout/preference.php(79): MP->create_preference(Array)
+#4 /var/www/html/mpcheckout/menu.php(145): include('/var/www/html/m...')
+#5 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[26-Mar-2015 18:47:43 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[26-Mar-2015 18:47:59 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[26-Mar-2015 18:48:22 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[27-Mar-2015 12:06:20 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[27-Mar-2015 12:09:06 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(73): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/lib/mercadopago.php(188): MP->get_access_token()
+#3 /var/www/html/mpcheckout/preference.php(79): MP->create_preference(Array)
+#4 /var/www/html/mpcheckout/menu.php(145): include('/var/www/html/m...')
+#5 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[06-Apr-2015 17:55:06 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'invalid client_id 6289713896757329 or client_secret.' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[06-Apr-2015 17:55:10 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'invalid client_id 6289713896757329 or client_secret.' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[10-Apr-2015 13:09:10 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'invalid client_id 6289713896757329 or client_secret.' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[10-Apr-2015 13:09:12 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'invalid client_id 6289713896757329 or client_secret.' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[13-Apr-2015 14:32:08 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'invalid client_id 6289713896757329 or client_secret.' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[28-Apr-2015 15:44:44 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'invalid client_id 6289713896757329 or client_secret.' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[19-May-2015 16:02:27 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'Oops! Something went wrong...' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/checkout/prefe...', Array, 'application/jso...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(190): MPRestClient::post('/checkout/prefe...', Array)
+#2 /var/www/html/mpcheckout/preference.php(79): MP->create_preference(Array)
+#3 /var/www/html/mpcheckout/menu.php(145): include('/var/www/html/m...')
+#4 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[16-Jun-2015 13:28:06 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'Oops! Something went wrong...' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/checkout/prefe...', Array, 'application/jso...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(190): MPRestClient::post('/checkout/prefe...', Array)
+#2 /var/www/html/mpcheckout/preference.php(79): MP->create_preference(Array)
+#3 /var/www/html/mpcheckout/menu.php(145): include('/var/www/html/m...')
+#4 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[18-Jun-2015 10:52:08 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'internal_error' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
+[06-Jul-2015 16:47:31 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'internal_error' in /var/www/html/mpcheckout/lib/mercadopago.php:421
+Stack trace:
+#0 /var/www/html/mpcheckout/lib/mercadopago.php(434): MPRestClient::exec('POST', '/oauth/token', 'client_id=62897...', 'application/x-w...')
+#1 /var/www/html/mpcheckout/lib/mercadopago.php(53): MPRestClient::post('/oauth/token', 'client_id=62897...', 'application/x-w...')
+#2 /var/www/html/mpcheckout/index.php(77): MP->get_auth()
+#3 {main}
+  thrown in /var/www/html/mpcheckout/lib/mercadopago.php on line 421
