@@ -1,6 +1,6 @@
 <?php
 require_once "lib/mercadopago.php";
-$mp = new MP("3821444876288488", "1MsZwpHqFP2MDPh1d4IaXsIrUAbIXbjt");
+$mp = new MP("client_id", "client_secret");
 
 $valor = rand(10,350);
 
